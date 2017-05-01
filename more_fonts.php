@@ -9,7 +9,7 @@ Version: 0.1
 */
 
 function add_more_fonts(){
-  wp_register_syle('googelFonts','https://fonts.googleapis.com/css?family=Crete+Round');
+  wp_register_syle('googleFonts','https://fonts.googleapis.com/css?family=Crete+Round');
   wp_enqueue_style('googleFonts');
 }
 add_action('wp_enqueue_scripts','add_more_fonts');
