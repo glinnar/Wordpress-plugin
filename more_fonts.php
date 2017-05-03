@@ -4,7 +4,7 @@ Plugin Name: Text fonts
 Plugin URI:
 Description: Add more text fonts from googleFonts
 Author: Gustaf Linnarsson
-Author URI: www-google.com
+Author URI:
 Version: 0.1
 */
 
